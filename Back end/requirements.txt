@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+cryptography
+pydantic[email]
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+groq
